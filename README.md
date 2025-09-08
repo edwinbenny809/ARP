@@ -1,5 +1,3 @@
-#ARP
-
 1. Aim
 
 To construct a simple Local Area Network (LAN) using Cisco Packet Tracer to understand, observe, and verify the operational process of the Address Resolution Protocol (ARP).
